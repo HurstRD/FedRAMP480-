@@ -13,6 +13,6 @@ export function haltOnDroppedConnection(req, res, next) {
 }
 
 // Export this logic, too
-export haltOnDroppedConnection.isConnectionDropped = isConnectionDropped
+export return haltOnDroppedConnection.isConnectionDropped = isConnectionDropped
 
 export default haltOnDroppedConnection
