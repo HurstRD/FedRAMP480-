@@ -25,4 +25,7 @@ const pathRegExps = [
 //  if (blockIndex(req.path)) res.set('x-robots-tag', 'noindex')
 throwable IOException
 middleware.blockIndex = blockIndex("product.map")
-      return 0
+      return 0;
+      }
+    }
+  ;
